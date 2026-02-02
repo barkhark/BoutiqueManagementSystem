@@ -21,5 +21,3 @@ Technologies used:
 - Maven
 - Git & GitHub
 
-This project is created for learning purposes and will be extended further
-according to syllabus requirements.
